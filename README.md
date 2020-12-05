@@ -1,5 +1,6 @@
 # MOBA_Trainer
 Coursework 2 / Programming 1 (2020-2021)
+Coded in Python, using the Tkinter GUI library
 
 Having similar controls to the popular game "League of Legends", this game is designed to improve your MOBA mechanics by hitting skilshots and dodging enemies and projectiles in a fast-paced, arena-style environment.
 
