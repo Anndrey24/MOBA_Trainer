@@ -6,4 +6,4 @@ Coursework 2 / Programming 1 (2020-2021)
 
 ###Main Menu
 
-![Image](/screenshots/main_menu.png)
+![Main Menu Image](/screenshots/main_menu.PNG)
