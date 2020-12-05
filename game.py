@@ -300,7 +300,7 @@ def anykeyPress(event):
     key = event.char.upper()
     global changingBind, bind
     # During gameplay
-    if not gameOver and not pause and not bossOn:
+    if not gameOver:
         if key == bind[0]:
             qAbility(event)
         elif key == bind[1]:
